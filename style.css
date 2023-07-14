@@ -7,11 +7,46 @@ body
 {
     color: white;
 }
-.a 
+.D
+{
+    color: yellow;
+}
+.a
 {
     color: yellow;
     padding: 20px;
     padding-left: 500px;
+}
+.e 
+{
+    justify-content: space-around;
+}
+.e1
+{
+    
+    height: 25px;
+    width: 25px;
+}
+.e2
+{
+    height: 25px;
+    width: 25px;
+}
+.h2
+{
+    height: 25px;
+    width: 25px;
+}
+.e3
+{
+    display: flex;
+    padding-left: 250px;
+    justify-content: space-between;
+}
+.h3
+{
+    display: flex;
+    padding-left: px;
 }
 .b 
 {
@@ -21,6 +56,15 @@ body
 .f 
 {
     display: flex;
+}
+.C
+{
+    height: 200px;
+    width: 200px;
+}
+.p
+{
+    padding-left: 260px;
 }
 .c
 {
@@ -41,4 +85,35 @@ body
     height: 400px;
     padding-left: 500px;
     color: white;
+}
+.E 
+{
+    background-color: dimgray;
+    padding: 50px;
+}
+.H
+{
+    background-color: dimgray;
+    padding: 50px;
+    color: white;
+    padding-left: 460px;
+    justify-content: space-around;
+    text-decoration: initial;
+}
+.F 
+{
+    padding: 120px;
+}
+.G
+{
+    padding: 50px;
+}
+.g 
+{
+    padding-left: 450px;
+}
+
+
+@media  screen  and media    {
+    
 }
