@@ -10,12 +10,32 @@ body
 .D
 {
     color: yellow;
+    font-family: italic;
+    font-size: 100px;
+}
+.d
+{
+    color: orangered;
 }
 .a
 {
-    color: yellow;
+    color: orangered;
     padding: 20px;
-    padding-left: 500px;
+    padding-left: 350px;
+    font-size: 60px;
+}
+.Z{
+    display: flex;
+}
+.z
+{
+    font-family: bold;
+    color: white;
+    font-size: 100px;
+}
+p1
+{
+    padding-bottom: 25px;
 }
 .e 
 {
@@ -26,6 +46,7 @@ body
     
     height: 25px;
     width: 25px;
+    padding-left: 5px;
 }
 .e2
 {
@@ -34,8 +55,9 @@ body
 }
 .h2
 {
-    height: 25px;
-    width: 25px;
+    height: 45px;
+    width: 55px;
+    padding-left: 25px;
 }
 .e3
 {
@@ -46,16 +68,20 @@ body
 .h3
 {
     display: flex;
-    padding-left: px;
+    padding: 10px
 }
 .b 
 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin: 90px;
+    
 }
 .f 
 {
     display: flex;
+    margin: 105px;
+    justify-content: space-around;
 }
 .C
 {
@@ -70,13 +96,13 @@ body
 {
     height: 75px;
     width: 75px;
-    color: yellow;
+    color: orangered;
 }
 .s
 {
     height: 75px;
     width: 75px;
-    color: yellow;
+    color: orangered;
 }
 .d-flex
 {
@@ -85,13 +111,21 @@ body
 }
 .B
 {
-    background-color: blue;
-    background-size: auto;
-    padding: 300px;
-    height: 800px;
-    padding-left: 500px;
+    background-color: rgb(92, 92, 239);
+    padding: 200px;
+    padding-left: 270px;
     color: white;
-    font-size: 25px;
+    height: 100%;
+}
+.bouton
+{
+    justify-content: space-between;
+    padding-left: 160px;
+}
+p3
+{
+    font-size: 40px;
+    padding-left: 65px;
 }
 .E 
 {
@@ -103,17 +137,21 @@ body
     background-color: dimgray;
     padding: 50px;
     color: white;
-    padding-left: 460px;
+    padding-left: 520px;
     justify-content: space-around;
-    text-decoration: initial;
 }
 .F 
 {
-    padding: 120px;
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-bottom: 80px;
 }
 .G
 {
-    padding: 50px;
+    
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-bottom: 80px;
 }
 .g 
 {
